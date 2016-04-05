@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./isocratisoratio00baitgoog_0002.png"; bbox 0 0 4467 6542; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1497 3805 2194 3863">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1497 3805 2194 3863">
+     <span class='ocr_line' id='line_1_1' title="bbox 1497 3805 2194 3863; baseline -0.014 0"><span class='ocrx_word' id='word_1_1' title='bbox 1497 3813 1693 3863; x_wconf 73' lang='lat' dir='ltr'><strong>THE</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1765 3805 2001 3861; x_wconf 71' lang='lat' dir='ltr'><strong>G1F‘r</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 2073 3805 2194 3857; x_wconf 68' lang='lat' dir='ltr'>[ll-¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1525 4029 2187 4193">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1525 4029 2187 4193">
+     <span class='ocr_line' id='line_1_2' title="bbox 1525 4037 1601 4089; textangle 180"><span class='ocrx_word' id='word_1_4' title='bbox 1525 4037 1601 4089; x_wconf 72' lang='lat' dir='ltr'>m</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1641 4034 1769 4193; textangle 180"><span class='ocrx_word' id='word_1_5' title='bbox 1641 4034 1769 4193; x_wconf 51' lang='lat' dir='ltr'><strong>mm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1718 4041 1899 4181; textangle 180"><span class='ocrx_word' id='word_1_6' title='bbox 1718 4041 1899 4181; x_wconf 54' lang='grc' dir='ltr'>Π</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 1900 4049 1985 4177; textangle 180"><span class='ocrx_word' id='word_1_7' title='bbox 1900 4049 1985 4177; x_wconf 13' lang='lat' dir='ltr'><strong>fflssm</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 2017 4029 2187 4185; textangle 180"><span class='ocrx_word' id='word_1_8' title='bbox 2017 4029 2187 4185; x_wconf 47' lang='lat' dir='ltr'><strong>mm</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1046 3925 2382 4023">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1046 3925 2382 4023">
+     <span class='ocr_line' id='line_1_7' title="bbox 1046 3925 2382 4023; baseline -0.019 -28"><span class='ocrx_word' id='word_1_9' title='bbox 1046 3981 1057 4003; x_wconf 83' lang='grc'><strong><em>,</em></strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1130 3933 1237 4023; x_wconf 35' lang='grc' dir='ltr'><strong>μᾶ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1366 3933 1789 3983; x_wconf 53' lang='lat' dir='ltr'><strong>amarant&amp;</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1841 3925 2382 3978; x_wconf 54' lang='lat' dir='ltr'><strong>ssu-:tunnam</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 404 376 3906 6158">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 404 376 3906 6158">
+     <span class='ocr_line' id='line_1_8' title="bbox 404 376 3906 6158; textangle 180"><span class='ocrx_word' id='word_1_13' title='bbox 404 376 3906 6158; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
